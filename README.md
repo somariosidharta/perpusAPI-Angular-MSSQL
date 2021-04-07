@@ -12,7 +12,8 @@ install node.js 14.16.1 https://nodejs.org/en/download/
 
 open installed "node.js command prompt" and run "npm install -g @angular/cli" for installing angular
 
-![image](https://user-images.githubusercontent.com/49771935/113818789-87933600-97a2-11eb-962e-3198e01859a8.png)
+![image](https://user-images.githubusercontent.com/49771935/113819280-49e2dd00-97a3-11eb-9eb9-d32d67470314.png)
+
 
 extract angular11 from the zip file
 
