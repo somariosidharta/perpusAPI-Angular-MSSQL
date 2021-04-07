@@ -21,6 +21,11 @@ run the Out/PerpustakaanAPI.exe
 
 ![image](https://user-images.githubusercontent.com/49771935/113818843-9ed22380-97a2-11eb-8b2d-0316486abb86.png)
 
+it should make a popup like this
+
+![image](https://user-images.githubusercontent.com/49771935/113819469-8d3d4b80-97a3-11eb-9f9d-359e880a8d3f.png)
+
+
 open cmd
 
 cd to angular11 directory
